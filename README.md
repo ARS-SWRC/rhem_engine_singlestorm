@@ -1,1 +1,2 @@
-# rhem_engine_singlestorm
+# RHEM Engine (Single storm version) 
+This is the Fortran source code that builds the single storm version of the RHEM engine.  This version of the code is currently being used in AGWA (https://www.tucson.ars.ag.gov/agwa)
